@@ -1,0 +1,10 @@
+{
+  "name": "pvc-record",
+  "version": "1.0.0",
+  "description": "A  record keeping app for a production factory",
+  "main": "main.js",
+  "repository": "github.com/edafeoke/pvc-record.git",
+  "author": "Edafe Oke",
+  "license": "MIT",
+  "private": false
+}
